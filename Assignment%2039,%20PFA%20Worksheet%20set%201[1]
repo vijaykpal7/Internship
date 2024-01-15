@@ -26,7 +26,7 @@
     <script>
       require.config({
           
-          urlArgs: "v=20240114152428",
+          urlArgs: "v=20240115111749",
           
           baseUrl: '/static/',
           paths: {
@@ -171,7 +171,7 @@ dir="ltr">
         <div class="container">
           <div class="center-nav">
             <form action="/login?next=%2Fedit%2FAssignment%252039%252C%2520PFA%2520Worksheet%2520set%25201" method="post" class="navbar-form pull-left">
-              <input type="hidden" name="_xsrf" value="2|088e17b1|74d7521d8455bb5ac863eea48a105344|1705226232"/>
+              <input type="hidden" name="_xsrf" value="2|83613a23|a8b8ec4e2578d549fa0c80dc4f6c9b93|1705297785"/>
               
                 <label for="password_input"><strong>Password or token:</strong></label>
               
@@ -228,7 +228,7 @@ http://localhost:8888/?token=c8de56fa... :: /Users/you/notebooks
         <p> You can also setup a password by entering your token and a new password
         on the fields below:</p>
         <form action="/login?next=%2Fedit%2FAssignment%252039%252C%2520PFA%2520Worksheet%2520set%25201" method="post" class="">
-                <input type="hidden" name="_xsrf" value="2|088e17b1|74d7521d8455bb5ac863eea48a105344|1705226232"/>
+                <input type="hidden" name="_xsrf" value="2|83613a23|a8b8ec4e2578d549fa0c80dc4f6c9b93|1705297785"/>
           <div class="form-group">
             <label for="token_input"><h4>Token</h4></label>
             <input type="password" name="password" id="token_input" class="form-control">
